@@ -1,4 +1,4 @@
-## Homework 11
+## REST API Contact Management 
 
 In this homework, we created a REST API to store and manage contacts. The API is built using the FastAPI infrastructure and uses SQLAlchemy for database management.
 
